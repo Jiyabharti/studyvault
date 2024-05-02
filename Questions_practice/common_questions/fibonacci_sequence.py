@@ -5,6 +5,6 @@
 # Note: Zero is sometimes not mentioned in the sequence
 
 """Using Recursion"""
-def fib(n):
+
 
 
